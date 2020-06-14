@@ -16,6 +16,8 @@ function Off () {
 
   return (
     <div className={`room ${islit? "lit" : "dark"}`}>
+      <br/>
+      <h2>Assignment By Abdul Basit Abbasi</h2>
       <p>
         There are two buttons for light with functions of keeping light on and off.<br/>
         When Light is off, background changes to Dark mode and vice versa.
